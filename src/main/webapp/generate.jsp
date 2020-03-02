@@ -236,7 +236,7 @@
 												Email.send({
 													Host: "smtp.gmail.com",
 													Username : "dqureshiumar@gmail.com",
-													Password : "iamumar@2901",
+													Password : "<yourpassword>",
 													To : email,
 													From : "dqureshiumar@gmail.com",
 													Subject : "Pay Slip",
