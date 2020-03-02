@@ -235,10 +235,10 @@
 											function sendEmail() {
 												Email.send({
 													Host: "smtp.gmail.com",
-													Username : "dqureshiumar@gmail.com",
+													Username : "<youremail>",
 													Password : "<yourpassword>",
 													To : email,
-													From : "dqureshiumar@gmail.com",
+													From : "<youremail>",
 													Subject : "Pay Slip",
 													Body : message,
 												})
